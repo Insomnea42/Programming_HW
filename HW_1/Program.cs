@@ -14,7 +14,8 @@ if (a == b)
 {
     Console.WriteLine("Числа равны");
 }
-else{
+else
+{
 
     if (a > b)
     {
